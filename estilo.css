@@ -1,0 +1,39 @@
+h1 {
+  color: #111;
+  text-align: center;
+}
+
+p,
+h2 {
+  margin-top: 0px;
+}
+
+p {
+  font-size: 15px;
+}
+
+.all {
+  margin: 30px;
+}
+
+.box {
+  color: #b2b2b2;
+  background-color: #111;
+  border-radius: 4px;
+  padding: 30px;
+  margin: 20px;
+}
+.produto {
+  color: whitesmoke;
+}
+
+.numeros {
+  color: #febe01;
+}
+
+button {
+  background-color: #febe01;
+  border-radius: 4px;
+  padding: 10px;
+  font-size: 15px;
+}
